@@ -32,6 +32,11 @@ Submitting a phone number sends a message to the user's phone. Also, an alert po
 
 [Text Sent Confirmation](./public/readme-images/text-sent-image.PNG)
 
+## Screenshots
+
+![Grocery Grab Login](./public/images/GGlogin.png)
+![Grocery Grab List](./public/images/GGlist.png)
+
 ## Badges
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
